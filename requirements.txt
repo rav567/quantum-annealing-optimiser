@@ -1,0 +1,11 @@
+networkx
+dwave-networkx
+minorminer
+dimod
+dwave-samplers
+pandas
+numpy
+matplotlib
+scikit-optimize
+torch
+torch-geometric
