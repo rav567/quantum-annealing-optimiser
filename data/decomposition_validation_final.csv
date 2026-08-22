@@ -1,0 +1,6 @@
+seed,default_gap,tuned_gap,qb_single_gap,qb_multi_gap,knob_piece_size,knob_overlap,knob_order_seed
+100,1,0,0,0,5,0,47
+101,1,0,1,0,5,1,38
+102,1,0,1,0,4,2,85
+103,5,0,2,0,5,1,38
+104,0,0,0,0,4,2,85
