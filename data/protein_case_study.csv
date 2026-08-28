@@ -1,0 +1,7 @@
+strategy,satisfied_interactions,of_total
+defaults,216,1510
+cold_bo,530,1510
+feature_pred,482,1510
+gnn_pred,514,1510
+warm_bo_6,514,1510
+warm_bo_11,514,1510
