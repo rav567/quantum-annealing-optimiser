@@ -26,7 +26,9 @@ This project treats those five settings as decision variables. It measures what 
 ## Installation
 
 git clone https://github.com/rav567/quantum-annealing-optimiser.git
+
 cd quantum-annealing-optimiser
+
 pip install -r requirements.txt
 
 ## Usage
